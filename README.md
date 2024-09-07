@@ -6,14 +6,24 @@
 </a>
 <br>
 
-- 👨‍💻 Stack: Javascript, ReactJS, NextJS, RemixJS, Sveltekit, Typescript, Tailwind CSS, Vite 
-
+- 👨‍💻 Stack: Javascript, ReactJS, NextJS, RemixJS, Sveltekit, Typescript, Tailwind CSS, Vite
 
 #### My Skills ✍️
 
 <table style="border: none;">
 <tr style="border: none; padding: 0; margin: 0;">
-    <td style="border: none; padding: 0; margin: 0;"> <img src="https://i.imgur.com/skEm5dG.png" width='30' style='margin-right: 1rem;' /> </td>
+    <td style="border: none; padding: 0; margin: 0;"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js_official.svg" width='30' style='margin-right: 1rem;' /> </td>
     <td style="border: none; padding: 0;"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_reactjs.svg" width='30' style='margin-right: 1rem;' /> </td>
-</tr>
+    <td style="border: none; padding: 0;"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_reactts.svg" width='30' style='margin-right: 1rem;' /> </td>
+    <td style="border: none; padding: 0;"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_typescript_official.svg" width='30' style='margin-right: 1rem;' /> </td>
+    <td style="border: none; padding: 0;"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_tailwind.svg" width='30' style='margin-right: 1rem;' /> </td>
+    <td style="border: none; padding: 0;"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_next.svg" width='30' style='margin-right: 1rem;' /> </td>
+    <td style="border: none; padding: 0;"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_svelte.svg" width='30' style='margin-right: 1rem;' /> </td>
+    <td style="border: none; padding: 0;"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" width='30' style='margin-right: 1rem;' /> </td>
+    <td style="border: none; padding: 0;"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vite.svg" width='30' style='margin-right: 1rem;' /> </td>
+    <td style="border: none; padding: 0;"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_sublime.svg" width='30' style='margin-right: 1rem;' /> </td>
+    <td style="border: none; padding: 0;"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_npm.svg" width='30' style='margin-right: 1rem;' /> </td>
+    <td style="border: none; padding: 0;"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_babel.svg" width='30' style='margin-right: 1rem;' /> </td>
+    <td style="border: none; padding: 0;"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_astro.svg" width='30' style='margin-right: 1rem;' /> </td>
+</tr> 
 </table>****
