@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Arindam200/Arindam200/blob/main/banner2.png)](https://github.com/Arindam200)
+[![MasterHead](https://github.com/mrhimanshusahni/mrhimanshusahni/blob/main/public/images/banner_index.png)](https://github.com/mrhimanshusahni)
 
 <h1 align="center">
 Himanshu Sahni
