@@ -1,3 +1,9 @@
+[![MasterHead](https://github.com/Arindam200/Arindam200/blob/main/banner2.png)](https://github.com/Arindam200)
+
+<h1 align="center">
+Himanshu Sahni
+</h1>
+
 ### Hey there 👋
 
 </div>
@@ -6,7 +12,9 @@
 </a>
 <br>
 
-- 👨‍💻 Stack: Javascript, ReactJS, NextJS, RemixJS, Sveltekit, Typescript, Tailwind CSS, Vite
+- 🖥️ Frontend Developer
+- 👨‍💻 Tech Blogger
+- 👨‍💻 Stack: Javascript, ReactJS, NextJS, RemixJS, Sveltekit, Typescript, React Query, Tailwind CSS, Vite
 
 #### My Skills ✍️
 
