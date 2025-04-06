@@ -14,11 +14,18 @@ Himanshu Sahni
 
 - 🖥️ Frontend Developer
 - 👨‍💻 Tech Blogger
-- 👨‍💻 Stack: Javascript, ReactJS, NextJS, RemixJS, Sveltekit, Typescript, React Query, Tailwind CSS, Vite
+- 👨‍💻 Stack: Javascript, ReactJS, NextJS, Remix Run, Sveltekit, Typescript, React Query, Tailwind CSS, Vite
 
-#### My Skills ✍️
+<h1 align="center">My Skills ✍️ 😎</h1>
+<br>
 
-<table style="border: none;">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,remix,svelte,astro,vite,vscode,sublime,npm,nodejs,ai,ps,xd,notion,git,github,devto,linkedin,babel&perline=7" />
+  </a>
+</p>
+
+<!-- <table style="border: none;">
 <tr style="border: none; padding: 0; margin: 0;">
     <td style="border: none; padding: 0; margin: 0;"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js_official.svg" width='30' style='margin-right: 1rem;' /> </td>
     <td style="border: none; padding: 0;"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_reactjs.svg" width='30' style='margin-right: 1rem;' /> </td>
@@ -33,5 +40,5 @@ Himanshu Sahni
     <td style="border: none; padding: 0;"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_npm.svg" width='30' style='margin-right: 1rem;' /> </td>
     <td style="border: none; padding: 0;"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_babel.svg" width='30' style='margin-right: 1rem;' /> </td>
     <td style="border: none; padding: 0;"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_astro.svg" width='30' style='margin-right: 1rem;' /> </td>
-</tr> 
-</table>****
+</tr>
+</table>**** -->
